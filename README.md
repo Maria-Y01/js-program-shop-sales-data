@@ -11,4 +11,4 @@ This project contain only JavaScript file. The task was to analyze data presente
 - a list by days of the week with an average check for the day.
 
 ## How it look like on the screen
-<img width="613" alt="Shop sales data final look" src="https://github.com/Maria-Y01/js-program-shop-sales-data/assets/136391989/3fa4d36a-357d-46c0-be1d-c5d17c18f079">
+<img width="700" alt="Shop sales data final look" src="https://github.com/Maria-Y01/js-program-shop-sales-data/assets/136391989/3fa4d36a-357d-46c0-be1d-c5d17c18f079">
